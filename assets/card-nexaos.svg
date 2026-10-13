@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="272" viewBox="0 0 580 272">
+<defs>
+  <linearGradient id="acard-nexaossvg" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+  <radialGradient id="rcard-nexaossvg" cx="100%" cy="0%" r="80%"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.16"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <clipPath id="ccard-nexaossvg"><rect width="580" height="272" rx="16"/></clipPath>
+</defs>
+<style>.sh{animation:s 3.2s linear infinite} @keyframes s{from{transform:translateX(-580px)}to{transform:translateX(580px)} .bl{animation:b 1.4s infinite} @keyframes b{50%{opacity:.2}</style>
+<g clip-path="url(#ccard-nexaossvg)">
+  <rect width="580" height="272" fill="#0b0d14"/>
+  <rect width="580" height="272" fill="url(#rcard-nexaossvg)"/>
+  <text x="554" y="250" text-anchor="end" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue','DejaVu Sans',sans-serif" font-size="150" font-weight="900" fill="#ffffff" fill-opacity="0.025">03</text>
+  <rect class="sh" x="0" y="0" width="580" height="2" fill="url(#acard-nexaossvg)"/>
+</g>
+<rect x="0.5" y="0.5" width="579" height="271" rx="16" fill="none" stroke="#1b1f2e"/>
+<path d="M10 22 V10 H22" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.55"/><path d="M570 22 V10 H558" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.55"/><path d="M10 250 V262 H22" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.55"/><path d="M570 250 V262 H558" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.55"/>
+<text x="34" y="48" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#22d3ee" letter-spacing="1.5">03</text>
+<text x="62" y="48" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8a90a3" letter-spacing="2">// AI · PLATFORM</text>
+<rect x="424" y="30" width="122" height="26" rx="13" fill="#fbbf24" fill-opacity="0.08" stroke="#fbbf24" stroke-opacity="0.45"/>
+<circle cx="439" cy="43" r="3.5" fill="#fbbf24" class="bl"/>
+<text x="449" y="47.5" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" font-weight="700" fill="#fbbf24" letter-spacing="1.5">IN PROGRESS</text>
+<text x="34" y="104" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue','DejaVu Sans',sans-serif" font-size="31" font-weight="800" fill="#e8eaf2">NexaOS</text>
+<text x="34" y="140" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue','DejaVu Sans',sans-serif" font-size="15.5" fill="#8a90a3"><tspan x="34" dy="0">A multi-tenant platform for running AI agents as a</tspan><tspan x="34" dy="23">workforce for teams.</tspan></text>
+<rect x="34" y="214" width="98.0" height="28" rx="6" fill="#ffffff" fill-opacity="0.03" stroke="#1b1f2e"/><text x="83.0" y="233" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#e8eaf2" opacity="0.85">TypeScript</text><rect x="140.0" y="214" width="90.39999999999999" height="28" rx="6" fill="#ffffff" fill-opacity="0.03" stroke="#1b1f2e"/><text x="185.2" y="233" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#e8eaf2" opacity="0.85">AI Agents</text><rect x="238.39999999999998" y="214" width="113.19999999999999" height="28" rx="6" fill="#ffffff" fill-opacity="0.03" stroke="#1b1f2e"/><text x="295.0" y="233" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#e8eaf2" opacity="0.85">Multi-tenant</text>
+</svg>
