@@ -1,7 +1,7 @@
 <a href="https://harshil-haunted-portfolio.vercel.app"><img src="assets/hero.svg" width="100%" alt="Harshil Gohil — Full-Stack Developer, 3D Web and AI. I build complete products and bring them to life with 3D and AI. Based in Gujarat, India. 19 client projects, 2 companies."/></a>
 
 <p align="center">
-  <a href="https://harshil-haunted-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_↗-6366f1?style=for-the-badge&labelColor=0c1122"/></a>
+  <a href="https://harshil-gohil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_↗-6366f1?style=for-the-badge&labelColor=0c1122"/></a>
   <a href="https://x.com/Harshil_2703_"><img src="https://img.shields.io/badge/X-@Harshil__2703__-22d3ee?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=0c1122"/></a>
   <a href="https://github.com/Harshil0207?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse_↗-a855f7?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0c1122"/></a>
 </p>
